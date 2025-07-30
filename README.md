@@ -56,7 +56,11 @@
 - Stores the **highest score in `high.txt`** for persistence.  
 
 📌 **Images & video:**
+
+
+
 <img width="801" height="629" alt="tm 1" src="https://github.com/user-attachments/assets/b96eda07-2842-4f21-abb5-77fa4bf8e3e6" />
-<img width="801" height="629" alt="tm 2" src="https://github.com/user-attachments/assets/3dab27a3-eca7-4936-bbf8-db5ec7d014f7" />
+<img width="801" height="634" alt="tm 2" src="https://github.com/user-attachments/assets/415377b7-329d-4c1e-b7c1-43a8451c2479" />
+
 
 

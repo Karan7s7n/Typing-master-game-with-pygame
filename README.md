@@ -55,17 +55,8 @@
 - Tracks user input and updates score accordingly.  
 - Stores the **highest score in `high.txt`** for persistence.  
 
----
+📌 **Images & video:**
+<img width="801" height="629" alt="tm 1" src="https://github.com/user-attachments/assets/b96eda07-2842-4f21-abb5-77fa4bf8e3e6" />
+<img width="801" height="629" alt="tm 1" src="https://github.com/user-attachments/assets/3dab27a3-eca7-4936-bbf8-db5ec7d014f7" />
 
-## **Future Improvements (Ideas for Contributions)**
-🚀 **Enhancements:**  
-✅ Add a **difficulty setting** (Easy, Medium, Hard).  
-✅ Implement a **leaderboard system** with local or online storage.  
-✅ Add **word meaning pop-ups** to make it an educational game.  
-✅ Include **multiplayer mode** for competitive typing challenges.  
-✅ Improve UI/UX with better animations and design.  
 
----
-
-## **Contributing**  
-Feel free to fork the repo, suggest improvements, or fix bugs. PRs are welcome! 🤝  
